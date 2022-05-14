@@ -309,6 +309,10 @@ img {
   align-items: center;
 }
 
+.skills__name {
+  margin-right: 20px;
+}
+
 .skills__bar {
   position: absolute;
   left: 0;
@@ -337,6 +341,18 @@ img {
 
 .skills__img {
   border-radius: .5rem;
+}
+
+.bxl-javascript:before {
+  margin-left: 22px;
+}
+
+/* .bxl-html5:before {
+  margin-left: 22px;
+} */
+
+.bxl-css3:before {
+
 }
 
 /* ===== WORK =====*/
